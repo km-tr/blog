@@ -2,7 +2,7 @@ import React from 'react'
 import { config } from 'config'
 import { rhythm } from 'utils/typography'
 import { prefixLink } from 'gatsby-helpers'
-import profilePic from './profile-pic.jpg'
+import profilePic from './profile-pic.png'
 
 class Bio extends React.Component {
   render () {
@@ -23,7 +23,7 @@ class Bio extends React.Component {
             height: rhythm(2),
           }}
         />
-        Written by <strong>{config.authorName}</strong> who lives and works in San Francisco building useful things. <a href="https://twitter.com/kylemathews">You should follow him on Twitter</a>
+        Written by <strong>{config.authorName}</strong> who lives and works in Roppongi.
       </p>
     )
   }

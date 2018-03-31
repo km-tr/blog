@@ -1,7 +1,7 @@
 ---
 title: 'GatsbyとNetlifyでブログを作る'
 date: "2017-03-08"
-readNext: "/my-second-post/"
+readNext: "/railsguides-getting-started/"
 path: "/create-gatsby-blog/"
 ---
 
